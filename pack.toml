@@ -1,0 +1,13 @@
+name = "2weekmods"
+author = "litopito"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "855ff65fafbb6d77642fc3c186431676d61fb4e21bf3c46c419354194253641d"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"
